@@ -1,0 +1,14 @@
+C:\‏‏תיקיה חדשה\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\‏‏תיקיה חדשה\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\‏‏תיקיה חדשה\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\‏‏תיקיה חדשה\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.AssemblyReference.cache
+C:\‏‏תיקיה חדשה\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\‏‏תיקיה חדשה\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\‏‏תיקיה חדשה\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
+C:\Garage\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.AssemblyReference.cache
+C:\Garage\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Garage\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Garage\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
+C:\Garage\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Garage\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Garage\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
